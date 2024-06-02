@@ -4,8 +4,8 @@
 ## Update
 ## Jun 2nd, 2024
 
-We are releasing 10k samples in a couple of days.
+We have released 1,000 samples, each with an ID and its corresponding label.
 
-The full dataset will be available upon request.
+The full dataset will be available upon request, subject to a data usage agreement.
 
-Terms and agreements will be informed.
+Terms and conditions will be provided soon.
