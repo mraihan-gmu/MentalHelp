@@ -5,13 +5,14 @@
 
 ## **Updates**
 
+### **September 2nd, 2024**
+
+We have now released **500,000 post IDs** with their associated labels. Although our intention was to release the entire dataset along with the content at once, we are currently constrained by the community guidelines of Reddit, which prevents us from doing so.
+
 ### **June 19th, 2024**
 
 We are pleased to announce the release of approximately **33,000 samples**, each containing an **ID** and its corresponding **label**. The full dataset is available upon request, subject to a data usage agreement. The terms and conditions for accessing the full dataset will be provided in due course.
 
-### **September 2nd, 2024**
-
-We have now released **500,000 post IDs** with their associated labels. Although our intention was to release the entire dataset along with the content at once, we are currently constrained by the community guidelines of Reddit, which prevents us from doing so.
 
 ---
 
